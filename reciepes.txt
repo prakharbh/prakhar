@@ -5,6 +5,8 @@ welcome to kitchen
 kheer
 Pasta
 Paneer
+Beans
+Pizza
 
 
 Thanks
